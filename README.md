@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Banner animado de código">
-</p>
-
 <h1 align="center">
   👋 Olá! Eu sou Thiago Altamir!
 </h1>
@@ -10,6 +6,10 @@
 </h3>
 
 <br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Banner animado de código">
+</p>
 
 ## 🚀 Sobre Mim
 
