@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Banner animado de código">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Banner animado de código">
 </p>
 
 <h1 align="center">
@@ -67,7 +67,7 @@ Minha experiência prática me deu proficiência em algumas ferramentas, e estou
 <br>
 
 ## 💡 Projetos em Destaque ( ⚙️ EM CONSTRUÇÃO...)
-
+<!--
 Aqui estão alguns projetos que demonstram minhas habilidades e paixão por construir.
 
 <table border="1">
@@ -121,7 +121,7 @@ Aqui estão alguns projetos que demonstram minhas habilidades e paixão por cons
 </table>
 
 <br>
-
+-->
 ## 📫 Conecte-se Comigo
 
 <p align="center">
