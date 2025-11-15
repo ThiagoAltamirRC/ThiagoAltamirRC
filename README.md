@@ -33,6 +33,7 @@ Minha experiência prática me deu proficiência em algumas ferramentas, e estou
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
   <img src="https://img.shields.io/badge/ESP-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
 </p>
 
 <p align="left">
